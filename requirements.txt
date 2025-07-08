@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+agno
+pypdf2
+pandas
+openai
+duckduckgo-search
+yfinance
+newspaper3k
+beautifulsoup4
+lxml
+requests
