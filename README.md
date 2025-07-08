@@ -1,6 +1,6 @@
 # Suite de Agentes de IA con Agno
 
-![Logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvv1HD6HOUF93mqxX44ojSfthw7NyWIS2u1wr-qWmWT81OI46FHCXWH_d0gXpa9f88kVc&usqp=CAU)
+![Logo](https://miro.medium.com/v2/resize:fit:1400/1*iDVq2ZWRALmV-r5ekscFNA.png)
 
 Este repositorio contiene una suite de agentes de IA construidos con el framework Agno, demostrando diversas capacidades y casos de uso.
 
